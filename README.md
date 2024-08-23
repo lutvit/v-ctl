@@ -44,5 +44,5 @@ The use of v-ctl is at your own risk. The author accepts no liability for damage
 
 License
 ----------------------------
-Vesta is licensed under  [GPL v3 ](https://github.com/outroll/vesta/blob/master/LICENSE) license
+v-ctl is licensed under  [GPL v3 ](https://github.com/outroll/vesta/blob/master/LICENSE) license
 
