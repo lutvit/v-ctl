@@ -1,13 +1,12 @@
-[Vesta Control Panel](http://vestacp.com/)
+v-ctl
 ==================================================
 
-Vesta is back under active development as of 25 February 2024. We are commited to open source, and will engage with the community to identify the new roadmap for Vesta. Stay tuned!
+v-ctl is a web hosting control panel for virtual and bare-metal servers that was originally forked from VestaCP. The focus is on stability, lightweight, flexibility and new functions. The long-term goal is to create an entirely independent web hosting panel with all the features that make it convenient and easy to manage the complete web hosting environment while being as stable and flexible as possible.
 
-[![Join the chat at https://gitter.im/vesta-cp/Lobby](https://badges.gitter.im/vesta-cp/Lobby.svg)](https://gitter.im/vesta-cp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-* Vesta is an open source hosting control panel.
-* Vesta has a clean and focused interface without the clutter.
-* Vesta has the latest of very innovative technologies.
+* v-ctl is an open source hosting control panel for the latest Debian.
+* v-ctl is a fork of VestaCP, but with no guarantee of compatibility.
+* v-ctl has a clean and focused interface without the clutter.
+* v-ctl has the latest of very innovative technologies.
 
 How to install (2 step)
 ----------------------------
