@@ -38,7 +38,7 @@ Then run it:
 ```bash
 bash vst-install.sh
 ```
-Exclusion of liability
+Disclaimer
 ----------------------------
 The use of v-ctl is at your own risk. The author accepts no liability for damages that may arise or have arisen through the use of this software. The author is also not liable for damage caused by faulty updates of the software.
 
